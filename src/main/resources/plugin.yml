@@ -4,3 +4,5 @@ main: me.an1lsalan.smplugin.SMPlugin
 api-version: 1.18
 authors: [ an1lsalan ]
 description: Lets goo, mc goes brr brr
+commands:
+  test:
